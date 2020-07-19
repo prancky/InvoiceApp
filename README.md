@@ -23,11 +23,7 @@
 - Open `Invoice.xcworkspace` file on ios folder `(project/ios/Invoice.xcworkspace)`
 - Run the project after indexing
 
-<img src="static/ios-screenshots/1.png" height="400" alt="Screenshot"/>
-<img src="static/ios-screenshots/2.png" height="400" alt="Screenshot"/>
-<img src="static/ios-screenshots/3.png" height="400" alt="Screenshot"/>
-<img src="static/ios-screenshots/4.png" height="400" alt="Screenshot"/>
-<img src="static/ios-screenshots/5.png" height="400" alt="Screenshot"/>
+<img src="static/ios-screenshots/1.png" height="400" alt="Screenshot"/><img src="static/ios-screenshots/2.png" height="400" alt="Screenshot"/><img src="static/ios-screenshots/3.png" height="400" alt="Screenshot"/><img src="static/ios-screenshots/4.png" height="400" alt="Screenshot"/><img src="static/ios-screenshots/5.png" height="400" alt="Screenshot"/>
 
 ### How do I configure **android** on my workstation?
 
@@ -43,7 +39,4 @@
 - Open android folder in project directory `(project/android)`
 - Run the project after building
 
-<img src="static/android-screenshots/1.png" height="400" alt="Screenshot"/>
-<img src="static/android-screenshots/2.png" height="400" alt="Screenshot"/>
-<img src="static/android-screenshots/3.png" height="400" alt="Screenshot"/>
-<img src="static/android-screenshots/4.png" height="400" alt="Screenshot"/>
+<img src="static/android-screenshots/1.png" height="400" alt="Screenshot"/><img src="static/android-screenshots/2.png" height="400" alt="Screenshot"/><img src="static/android-screenshots/3.png" height="400" alt="Screenshot"/><img src="static/android-screenshots/4.png" height="400" alt="Screenshot"/>
